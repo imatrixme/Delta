@@ -33,6 +33,10 @@
 
 /* Begin PBXBuildFile section */
 		1FA4ABA79AB72914FE414A61 /* libPods-Delta.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC866E433B3BA9AE18ABA1EC /* libPods-Delta.a */; };
+		4588A06E27D1E4E200E6A35D /* PausePresentationControllerContentView.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A06C27D1E4E200E6A35D /* PausePresentationControllerContentView.strings */; };
+		4588A07127D1E4E300E6A35D /* Settings.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A06F27D1E4E300E6A35D /* Settings.strings */; };
+		4588A07427D1E4E300E6A35D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A07227D1E4E300E6A35D /* InfoPlist.strings */; };
+		4588A07727D1E4E300E6A35D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A07527D1E4E300E6A35D /* Localizable.strings */; };
 		BF00BEA625B758AA00C8607D /* SystemBIOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF00BEA525B758AA00C8607D /* SystemBIOS.swift */; };
 		BF02D5DA1DDEBB3000A5E131 /* openvgdb.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = BF02D5D91DDEBB3000A5E131 /* openvgdb.sqlite */; };
 		BF04E6FF1DB8625C000F35D3 /* ControllerSkinsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF04E6FE1DB8625C000F35D3 /* ControllerSkinsViewController.swift */; };
@@ -193,6 +197,14 @@
 
 /* Begin PBXFileReference section */
 		22506DA00971C4300AF90A35 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4588A06827D1E3B600E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		4588A06927D1E3B600E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		4588A06A27D1E3B700E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/PauseMenu.strings"; sourceTree = "<group>"; };
+		4588A06B27D1E3B700E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/GamesDatabase.strings"; sourceTree = "<group>"; };
+		4588A06D27D1E4E200E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/PausePresentationControllerContentView.strings"; sourceTree = "<group>"; };
+		4588A07027D1E4E300E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Settings.strings"; sourceTree = "<group>"; };
+		4588A07327D1E4E300E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		4588A07627D1E4E300E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		A19FF50F55441BC2B2248241 /* Pods-Delta.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Delta.release.xcconfig"; path = "Pods/Target Support Files/Pods-Delta/Pods-Delta.release.xcconfig"; sourceTree = "<group>"; };
 		BF00BEA525B758AA00C8607D /* SystemBIOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemBIOS.swift; sourceTree = "<group>"; };
 		BF02D5D91DDEBB3000A5E131 /* openvgdb.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = openvgdb.sqlite; sourceTree = "<group>"; };
@@ -842,6 +854,10 @@
 				BF090CF11B490D8300DCAB45 /* Delta-Bridging-Header.h */,
 				BF27CC861BC9E3C600A20D89 /* Delta.entitlements */,
 				BFFA71DB1AAC406100EE9DD1 /* Info.plist */,
+				4588A07527D1E4E300E6A35D /* Localizable.strings */,
+				4588A07227D1E4E300E6A35D /* InfoPlist.strings */,
+				4588A06F27D1E4E300E6A35D /* Settings.strings */,
+				4588A06C27D1E4E200E6A35D /* PausePresentationControllerContentView.strings */,
 				BFAB9F87219A4B670080EC7D /* GoogleService-Info.plist */,
 			);
 			path = "Supporting Files";
@@ -955,6 +971,7 @@
 				English,
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = BFFA71CE1AAC406100EE9DD1;
 			productRefGroup = BFFA71D81AAC406100EE9DD1 /* Products */;
@@ -974,15 +991,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFFA71E21AAC406100EE9DD1 /* Main.storyboard in Resources */,
+				4588A07427D1E4E300E6A35D /* InfoPlist.strings in Resources */,
 				BF6BF3211EB82362008E83CD /* GamesDatabase.storyboard in Resources */,
 				BFAB9F88219A4B670080EC7D /* GoogleService-Info.plist in Resources */,
 				BF3540001C5DA3C500C1184C /* PausePresentationControllerContentView.xib in Resources */,
 				BF5E7F461B9A652600AE44F8 /* Settings.storyboard in Resources */,
 				BF02D5DA1DDEBB3000A5E131 /* openvgdb.sqlite in Resources */,
+				4588A07127D1E4E300E6A35D /* Settings.strings in Resources */,
 				BF71CF8A1FE904B1001F1613 /* GameTableViewCell.xib in Resources */,
 				BFFC46461D59861000AF2CC6 /* LaunchScreen.storyboard in Resources */,
+				4588A07727D1E4E300E6A35D /* Localizable.strings in Resources */,
 				BF1F45AB21AF4B5800EF9895 /* SyncResultsViewController.storyboard in Resources */,
 				BF353FF61C5D837600C1184C /* PauseMenu.storyboard in Resources */,
+				4588A06E27D1E4E200E6A35D /* PausePresentationControllerContentView.strings in Resources */,
 				BF27CC8E1BC9FEA200A20D89 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1227,10 +1248,45 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		4588A06C27D1E4E200E6A35D /* PausePresentationControllerContentView.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4588A06D27D1E4E200E6A35D /* zh-Hans */,
+			);
+			name = PausePresentationControllerContentView.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4588A06F27D1E4E300E6A35D /* Settings.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4588A07027D1E4E300E6A35D /* zh-Hans */,
+			);
+			name = Settings.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4588A07227D1E4E300E6A35D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4588A07327D1E4E300E6A35D /* zh-Hans */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4588A07527D1E4E300E6A35D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4588A07627D1E4E300E6A35D /* zh-Hans */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		BF353FF41C5D837600C1184C /* PauseMenu.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				BF353FF51C5D837600C1184C /* Base */,
+				4588A06A27D1E3B700E6A35D /* zh-Hans */,
 			);
 			name = PauseMenu.storyboard;
 			path = Delta;
@@ -1240,6 +1296,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BF6BF3201EB82362008E83CD /* Base */,
+				4588A06B27D1E3B700E6A35D /* zh-Hans */,
 			);
 			name = GamesDatabase.storyboard;
 			path = Delta;
@@ -1249,6 +1306,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BFFA71E11AAC406100EE9DD1 /* Base */,
+				4588A06827D1E3B600E6A35D /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			path = Delta;
@@ -1258,6 +1316,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BFFC46451D59861000AF2CC6 /* Base */,
+				4588A06927D1E3B600E6A35D /* zh-Hans */,
 			);
 			name = LaunchScreen.storyboard;
 			path = Delta;

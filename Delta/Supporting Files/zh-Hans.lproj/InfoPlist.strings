@@ -1,0 +1,36 @@
+/* Bundle name */
+"CFBundleName" = "Delta";
+
+/* (No Comment) */
+"Delta Controller Skin" = "Delta 控制器皮肤";
+
+/* (No Comment) */
+"Delta Game" = "Delta 游戏";
+
+/* (No Comment) */
+"DS Game" = "DS 游戏";
+
+/* (No Comment) */
+"GBA Game" = "GBA 游戏";
+
+/* (No Comment) */
+"GBC Game" = "GBC 游戏";
+
+/* (No Comment) */
+"Genesis Game" = "Genesis 游戏";
+
+/* (No Comment) */
+"N64 Game" = "N64 游戏";
+
+/* (No Comment) */
+"NES Game" = "NES 游戏";
+
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Delta将使用你的麦克风模拟任天堂DS的麦克风。";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "按“确定”允许Delta使用您的图片库中的图像作为游戏美术封面。";
+
+/* (No Comment) */
+"SNES Game" = "SNES 游戏";
+

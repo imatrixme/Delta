@@ -1,0 +1,765 @@
+/* No comment provided by engineer. */
+"-" = "-";
+
+/* No comment provided by engineer. */
+"“%@“ is missing. Please re-import this game to resume syncing its data." = "“%@“ 已丢失. 请重新导入游戏以恢复数据同步。";
+
+/* No comment provided by engineer. */
+"%@ is %@, but expected size is %@." = "%1$@ 是 %2$@, 但文件大小应该是 %3$@.";
+
+/* No comment provided by engineer. */
+"%@ is %@, but expected size is between %@ and %@." = "%1$@ 是 %2$@, 但文件大小应该在 %3$@ 和 %4$@ 之间.";
+
+/* No comment provided by engineer. */
+"%@ is %@, but expected sizes are:" = "%1$@ 是 %2$@, 但文件大小应该是:";
+
+/* No comment provided by engineer. */
+"%@’s size could not be determined." = "无法估量 %@ 的文件尺寸。";
+
+/* No comment provided by engineer. */
+"←" = "←";
+
+/* No comment provided by engineer. */
+"→" = "→";
+
+/* No comment provided by engineer. */
+"↑" = "↑";
+
+/* No comment provided by engineer. */
+"↓" = "↓";
+
+/* No comment provided by engineer. */
+"↩u{FE0E}" = "↩u{FE0E}";
+
+/* No comment provided by engineer. */
+"⇥" = "⇥";
+
+/* No comment provided by engineer. */
+"⇧" = "⇧";
+
+/* No comment provided by engineer. */
+"⇪" = "⇪";
+
+/* No comment provided by engineer. */
+"⌘" = "⌘";
+
+/* No comment provided by engineer. */
+"⌥" = "⌥";
+
+/* No comment provided by engineer. */
+"⎋" = "⎋";
+
+/* No comment provided by engineer. */
+"3D Touch" = "3D 触控";
+
+/* No comment provided by engineer. */
+"A" = "A";
+
+/* No comment provided by engineer. */
+"A cheat already exists with this code. Please type in a different code and try again." = "此代码中已经存在相同金手指。请输入不同的代码，然后再试一次。";
+
+/* No comment provided by engineer. */
+"A cheat already exists with this name. Please rename this cheat and try again." = "以这个名字命名的金手指已经存在了。请重命名此金手指程序并重试。";
+
+/* No comment provided by engineer. */
+"An error occured. Please make sure you typed the cheat code in correctly and try again." = "发生一个错误。请确认您输入的及手指正确，然后再试一次。";
+
+/* No comment provided by engineer. */
+"Are you sure you want to change sync services?" = "您确定要更改同步服务吗?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this game? All associated data, such as saves, save states, and cheat codes, will also be deleted." = "您确定要删除此游戏吗?所有相关的数据，如保存、保存状态和金手指，也将被删除。";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this save state? This cannot be undone." = "您确定要删除此保存状态吗?这是无法挽回的。";
+
+/* No comment provided by engineer. */
+"Are you sure you want to sign out?" = "你确定要登出离开吗?";
+
+/* No comment provided by engineer. */
+"Arisotura" = "Arisotura";
+
+/* No comment provided by engineer. */
+"Auto Save" = "自动保存";
+
+/* No comment provided by engineer. */
+"Autorotation Disabled" = "禁用自动旋转";
+
+/* No comment provided by engineer. */
+"B" = "B";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Cannot Modify Locked Save State" = "无法修改锁定存档";
+
+/* No comment provided by engineer. */
+"Change" = "变更";
+
+/* No comment provided by engineer. */
+"Change Artwork" = "改变封面";
+
+/* No comment provided by engineer. */
+"Change Controller Skin" = "改变控制器的皮肤";
+
+/* No comment provided by engineer. */
+"Change Emulator Core" = "改变模拟器的核心";
+
+/* No comment provided by engineer. */
+"Change Preview Save State?" = "更改预览存档?";
+
+/* No comment provided by engineer. */
+"Change Sync Service" = "改变同步服务";
+
+/* No comment provided by engineer. */
+"Cheat" = "金手指";
+
+/* No comment provided by engineer. */
+"Cheat Codes" = "金手指代码";
+
+/* No comment provided by engineer. */
+"Cheats" = "金手指";
+
+/* No comment provided by engineer. */
+"Check back here after adding games to Delta to see their sync status." = "在将游戏添加到Delta后，请回到这里查看他们的同步状态。";
+
+/* No comment provided by engineer. */
+"Clipboard" = "剪贴板";
+
+/* No comment provided by engineer. */
+"Cloud" = "云端";
+
+/* No comment provided by engineer. */
+"Code will be formatted automatically as you type." = "代码将在键入时自动格式化。";
+
+/* No comment provided by engineer. */
+"Controller Skin" = "控制器皮肤";
+
+/* No comment provided by engineer. */
+"Controller Skins" = "控制器皮肤";
+
+/* No comment provided by engineer. */
+"Copy Code" = "复制代码";
+
+/* No comment provided by engineer. */
+"Copy Deep Link" = "复制深度链接";
+
+/* No comment provided by engineer. */
+"Could not import “%@”." = "无法导入 “%@”.";
+
+/* No comment provided by engineer. */
+"Could not import %@." = "无法导入 “%@”.";
+
+/* No comment provided by engineer. */
+"Ctrl" = "Ctrl";
+
+/* No comment provided by engineer. */
+"Customize Controls…" = "自定义控制器…";
+
+/* No comment provided by engineer. */
+"Dashes will be inserted automatically as you type." = "当您键入时，将自动插入破折号。";
+
+/* No comment provided by engineer. */
+"Delete" = "删除";
+
+/* No comment provided by engineer. */
+"Delete Game" = "删除游戏";
+
+/* No comment provided by engineer. */
+"Delete Save State?" = "删除存档？";
+
+/* No comment provided by engineer. */
+"Deleted" = "删除";
+
+/* No comment provided by engineer. */
+"Delta" = "Delta";
+
+/* No comment provided by engineer. */
+"Delta Lite" = "Delta Lite";
+
+/* No comment provided by engineer. */
+"Delta requires certain files to play Nintendo DS games. Please import them to launch this game." = "Delta需要特定的文件来玩任天堂DS游戏。请导入它们以启动这个游戏。";
+
+/* No comment provided by engineer. */
+"Delta was unable to import controller skins. Please try again later." = "Delta无法导入控制器外观。请稍后再试。";
+
+/* No comment provided by engineer. */
+"Delta was unable to import games. Please try again later." = "Delta无法导入游戏。请稍后再试。";
+
+/* No comment provided by engineer. */
+"Delta will import the games and controller skins copied over via iTunes." = "Delta将导入通过iTunes复制的游戏和控制器皮肤。";
+
+/* No comment provided by engineer. */
+"DeSmuME (Legacy)" = "DeSmuME (遗产)";
+
+/* No comment provided by engineer. */
+"DeSmuME Core Deprecated" = "DeSmuME 核心已被弃用";
+
+/* No comment provided by engineer. */
+"DeSmuME team" = "DeSmuME 团队";
+
+/* No comment provided by engineer. */
+"Disable" = "禁用";
+
+/* No comment provided by engineer. */
+"Disable Syncing?" = "禁用同步？";
+
+/* No comment provided by engineer. */
+"Down" = "下";
+
+/* No comment provided by engineer. */
+"Downloading Save File" = "下载保存文件";
+
+/* No comment provided by engineer. */
+"Dropbox" = "Dropbox";
+
+/* No comment provided by engineer. */
+"Dropbox has flagged this game as copyrighted material, so it cannot be downloaded. Please re-import this game to continue syncing." = "Dropbox将这款游戏标记为受版权保护的内容，因此无法下载。请重新导入游戏以继续同步。";
+
+/* No comment provided by engineer. */
+"DS" = "DS";
+
+/* No comment provided by engineer. */
+"Duplicate Code" = "重复代码";
+
+/* No comment provided by engineer. */
+"Duplicate Name" = "重复名字";
+
+/* No comment provided by engineer. */
+"Edit" = "编辑";
+
+/* No comment provided by engineer. */
+"Enabling syncing again later may result in conflicts that must be resolved manually." = "以后再次启用同步可能会导致必须手动解决的冲突。";
+
+/* No comment provided by engineer. */
+"Error Importing Controller Skins" = "导入控制器皮肤错误";
+
+/* No comment provided by engineer. */
+"Error Importing Games" = "错误导入游戏";
+
+/* No comment provided by engineer. */
+"Export Save File" = "导出保存文件";
+
+/* No comment provided by engineer. */
+"Failed to Disable Syncing" = "禁用同步失败";
+
+/* No comment provided by engineer. */
+"Failed to Enable Syncing" = "启用同步失败";
+
+/* No comment provided by engineer. */
+"Failed to Export Save File" = "导出保存文件失败";
+
+/* No comment provided by engineer. */
+"Failed to Fetch Record Versions" = "获取记录版本失败";
+
+/* No comment provided by engineer. */
+"Failed to Get Sync Status" = "获取同步状态失败";
+
+/* No comment provided by engineer. */
+"Failed to Import Controller Skin" = "导入控制器皮肤失败";
+
+/* No comment provided by engineer. */
+"Failed to Import Save File" = "导入保存文件失败";
+
+/* No comment provided by engineer. */
+"Failed to Resolve Conflict" = "未能解决冲突";
+
+/* No comment provided by engineer. */
+"Failed to Restore Version" = "恢复版本失败";
+
+/* No comment provided by engineer. */
+"Failed to Sign In" = "登录失败";
+
+/* No comment provided by engineer. */
+"Failed to Sign Out" = "登出失败";
+
+/* No comment provided by engineer. */
+"Fast Forward" = "快进";
+
+/* No comment provided by engineer. */
+"Files" = "文件";
+
+/* No comment provided by engineer. */
+"Game" = "游戏";
+
+/* No comment provided by engineer. */
+"Game Boy Advance" = "Game Boy Advance";
+
+/* No comment provided by engineer. */
+"Game Boy Color" = "Game Boy Color";
+
+/* No comment provided by engineer. */
+"Game Collection" = "游戏集";
+
+/* No comment provided by engineer. */
+"Game Collections" = "游戏集合";
+
+/* No comment provided by engineer. */
+"Game Controller Input Mapping" = "游戏控制器输入映射";
+
+/* No comment provided by engineer. */
+"Game Controllers" = "游戏控制器";
+
+/* No comment provided by engineer. */
+"Game Paused" = "游戏已暂停";
+
+/* No comment provided by engineer. */
+"Game Save" = "游戏保存";
+
+/* No comment provided by engineer. */
+"Game System" = "游戏系统";
+
+/* No comment provided by engineer. */
+"Games" = "游戏库";
+
+/* No comment provided by engineer. */
+"Games Database" = "游戏数据库";
+
+/* No comment provided by engineer. */
+"GBA" = "GBA";
+
+/* No comment provided by engineer. */
+"GBC" = "GBC";
+
+/* No comment provided by engineer. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Genesis (Beta)" = "Genesis (Beta)";
+
+/* No comment provided by engineer. */
+"GitHub" = "GitHub";
+
+/* No comment provided by engineer. */
+"Google Drive" = "Google云盘";
+
+/* No comment provided by engineer. */
+"Hold Buttons" = "按住按钮";
+
+/* No comment provided by engineer. */
+"Home Screen" = "主屏幕";
+
+/* No comment provided by engineer. */
+"Home Screen (DSi)" = "主屏幕 (DSi)";
+
+/* No comment provided by engineer. */
+"Import" = "导入";
+
+/* No comment provided by engineer. */
+"Import Controller Skin" = "导入控制器皮肤";
+
+/* No comment provided by engineer. */
+"Import Files" = "导入文件";
+
+/* No comment provided by engineer. */
+"Import from iTunes?" = "从iTunes导入吗?";
+
+/* No comment provided by engineer. */
+"Import Save File" = "导入保存文件";
+
+/* No comment provided by engineer. */
+"Input Mappings" = "输入映射";
+
+/* No comment provided by engineer. */
+"Invalid Code" = "无效代码";
+
+/* No comment provided by engineer. */
+"Invalid Name" = "无效名称";
+
+/* No comment provided by engineer. */
+"iTunes" = "iTunes";
+
+/* No comment provided by engineer. */
+"L🕹←" = "L🕹←";
+
+/* No comment provided by engineer. */
+"L🕹→" = "L🕹→";
+
+/* No comment provided by engineer. */
+"L🕹↑" = "L🕹↑";
+
+/* No comment provided by engineer. */
+"L🕹↓" = "L🕹↓";
+
+/* No comment provided by engineer. */
+"L1" = "L1";
+
+/* No comment provided by engineer. */
+"L2" = "L2";
+
+/* No comment provided by engineer. */
+"L3" = "L3";
+
+/* No comment provided by engineer. */
+"Left" = "左";
+
+/* No comment provided by engineer. */
+"Load State" = "加载存档";
+
+/* No comment provided by engineer. */
+"Lock" = "锁定";
+
+/* No comment provided by engineer. */
+"Locked" = "已锁定";
+
+/* No comment provided by engineer. */
+"melonDS" = "melonDS";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Misc." = "Misc.";
+
+/* No comment provided by engineer. */
+"Missing Required DS Files" = "缺少必需的DS文件";
+
+/* No comment provided by engineer. */
+"N64" = "N64";
+
+/* No comment provided by engineer. */
+"Name" = "名称";
+
+/* No comment provided by engineer. */
+"NES" = "NES";
+
+/* No comment provided by engineer. */
+"Newest First" = "最新优先";
+
+/* No comment provided by engineer. */
+"Nintendo" = "Nintendo";
+
+/* No comment provided by engineer. */
+"Nintendo 64" = "Nintendo 64";
+
+/* No comment provided by engineer. */
+"Nintendo DS" = "Nintendo DS";
+
+/* No comment provided by engineer. */
+"No Cheats" = "没有金手指";
+
+/* No comment provided by engineer. */
+"No Games" = "没有游戏";
+
+/* No comment provided by engineer. */
+"No Games Found" = "未发现游戏";
+
+/* No comment provided by engineer. */
+"No Home Screen Shortcuts" = "无主界面快捷方式";
+
+/* No comment provided by engineer. */
+"No Save States" = "无存档";
+
+/* No comment provided by engineer. */
+"Normal" = "普通";
+
+/* No comment provided by engineer. */
+"OK" = "好的";
+
+/* No comment provided by engineer. */
+"Oldest First" = "最旧优先";
+
+/* No comment provided by engineer. */
+"On Device" = "在设备上";
+
+/* No comment provided by engineer. */
+"Patreon" = "Patreon";
+
+/* No comment provided by engineer. */
+"Pause game to change orientation." = "暂停游戏以改变屏幕方向。";
+
+/* No comment provided by engineer. */
+"Photo Library" = "照片库";
+
+/* No comment provided by engineer. */
+"Player (self.playerIndex + 1)" = "玩家 (self.playerIndex + 1)";
+
+/* No comment provided by engineer. */
+"Please choose a different BIOS file." = "请选择一个不同的BIOS文件。";
+
+/* No comment provided by engineer. */
+"Please make sure the name is correct, or try searching for another game." = "请确认名称是正确的，或尝试搜索另一个游戏。";
+
+/* No comment provided by engineer. */
+"Please make sure you typed the cheat code in correctly and try again." = "请确认您输入的金手指正确，然后再试一次。";
+
+/* No comment provided by engineer. */
+"Please rename this cheat and try again." = "请重命名此金手指程序并重试。";
+
+/* No comment provided by engineer. */
+"Please wait until after this game's save file has been downloaded before playing to prevent losing save data." = "请等待此游戏的保存文件下载后再玩，以防止丢失保存的数据。";
+
+/* No comment provided by engineer. */
+"Press Button" = "点击按钮";
+
+/* No comment provided by engineer. */
+"Press the Menu button when finished." = "完成后按Menu按钮。";
+
+/* No comment provided by engineer. */
+"Quick Load" = "快速加载";
+
+/* No comment provided by engineer. */
+"Quick Save" = "快速保存";
+
+/* No comment provided by engineer. */
+"R🕹←" = "R🕹←";
+
+/* No comment provided by engineer. */
+"R🕹→" = "R🕹→";
+
+/* No comment provided by engineer. */
+"R🕹↑" = "R🕹↑";
+
+/* No comment provided by engineer. */
+"R🕹↓" = "R🕹↓";
+
+/* No comment provided by engineer. */
+"R1" = "R1";
+
+/* No comment provided by engineer. */
+"R2" = "R2";
+
+/* No comment provided by engineer. */
+"R3" = "R3";
+
+/* No comment provided by engineer. */
+"Recently Played Games" = "最近玩过的游戏";
+
+/* No comment provided by engineer. */
+"Remove" = "删除";
+
+/* No comment provided by engineer. */
+"Remove as Preview Save State" = "删除预览存档";
+
+/* No comment provided by engineer. */
+"Rename" = "重命名";
+
+/* No comment provided by engineer. */
+"Rename Game" = "重命名游戏";
+
+/* No comment provided by engineer. */
+"Rename Save State" = "重命名存档";
+
+/* No comment provided by engineer. */
+"Required" = "必需";
+
+/* No comment provided by engineer. */
+"Reset Controller Skin to Default" = "将控制器皮肤重置为默认";
+
+/* No comment provided by engineer. */
+"Reset Controls to Defaults" = "将控制器重置为默认值";
+
+/* No comment provided by engineer. */
+"Resolve" = "解决";
+
+/* No comment provided by engineer. */
+"Resolve Conflict" = "解决冲突";
+
+/* No comment provided by engineer. */
+"Restart" = "重启";
+
+/* No comment provided by engineer. */
+"Restore" = "重置";
+
+/* No comment provided by engineer. */
+"Restore Version" = "重置版本";
+
+/* No comment provided by engineer. */
+"Restoring a remote version will cause any local changes to be lost." = "重置为远程版本将导致任何本地更改丢失。";
+
+/* No comment provided by engineer. */
+"Resume" = "继续";
+
+/* No comment provided by engineer. */
+"Retry" = "重试";
+
+/* No comment provided by engineer. */
+"Right" = "右";
+
+/* No comment provided by engineer. */
+"Save State" = "存档";
+
+/* No comment provided by engineer. */
+"Save States" = "存档";
+
+/* No comment provided by engineer. */
+"Sega Genesis" = "Sega Genesis";
+
+/* Select button */
+"Select" = "Select";
+
+/* No comment provided by engineer. */
+"Select Buttons to Hold Down" = "选择按钮并按下";
+
+/* No comment provided by engineer. */
+"Selecting a remote version will cause any local changes to be lost." = "选择远程版本将导致丢失任何本地更改。";
+
+/* No comment provided by engineer. */
+"Set as Preview Save State" = "设置为预览存档";
+
+/* No comment provided by engineer. */
+"Share" = "分享";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "快捷键";
+
+/* No comment provided by engineer. */
+"Sign In" = "登入";
+
+/* No comment provided by engineer. */
+"Sign Out" = "登出";
+
+/* No comment provided by engineer. */
+"Signing in again later may result in conflicts that must be resolved manually." = "稍后再次登录可能会导致必须手动解决的冲突。";
+
+/* No comment provided by engineer. */
+"SNES" = "SNES";
+
+/* No comment provided by engineer. */
+"Space" = "空格";
+
+/* No comment provided by engineer. */
+"Spaces and dashes will be inserted automatically as you type." = "当您键入时，空格和破折号将自动插入。";
+
+/* No comment provided by engineer. */
+"Spaces will be inserted automatically as you type." = "空格将在键入时自动插入。";
+
+/* Start button */
+"Start" = "Start";
+
+/* No comment provided by engineer. */
+"Super Nintendo" = "Super Nintendo";
+
+/* No comment provided by engineer. */
+"Switch to the melonDS core in Settings for latest improvements." = "在设置中切换到melond核心进行最新的改进。";
+
+/* No comment provided by engineer. */
+"Switching back later may result in conflicts that must be resolved manually." = "稍后切换回可能会导致必须手动解决的冲突。";
+
+/* No comment provided by engineer. */
+"Sync Complete" = "同步完成";
+
+/* No comment provided by engineer. */
+"Sync Failed" = "同步失败";
+
+/* No comment provided by engineer. */
+"Sync Successful" = "同步成功";
+
+/* No comment provided by engineer. */
+"Syncing" = "同步中";
+
+/* No comment provided by engineer. */
+"Syncing..." = "同步中...";
+
+/* No comment provided by engineer. */
+"The file does not exist." = "该文件不存在。";
+
+/* No comment provided by engineer. */
+"The file is invalid." = "该文件无效。";
+
+/* No comment provided by engineer. */
+"The following controller skin files could not be imported:" = "无法导入以下控制器皮肤文件:";
+
+/* No comment provided by engineer. */
+"The following game files could not be imported:" = "以下游戏文件无法导入:";
+
+/* No comment provided by engineer. */
+"The game for this item is missing. Please re-import the game to resume syncing its data." = "这个项目的游戏丢失了。请重新导入游戏以恢复数据同步。";
+
+/* No comment provided by engineer. */
+"The games you've selected below will appear as shortcuts when long-pressing the app icon." = "当长按应用程序图标时，你所选择的游戏将显示为快捷方式。";
+
+/* No comment provided by engineer. */
+"The image might be corrupted or in an unsupported format." = "图像可能已损坏或格式不受支持。";
+
+/* No comment provided by engineer. */
+"The local version will be uploaded and synced to your other devices." = "本地版本将被上传并同步到您的其他设备。";
+
+/* No comment provided by engineer. */
+"The Preview Save State is loaded whenever you 3D Touch this game from the Main Menu. Are you sure you want to change it?" = "当你3D触摸这个游戏菜单时，预览存档。您确定要更改吗?";
+
+/* No comment provided by engineer. */
+"The Preview Save State is loaded whenever you long press this game from the Main Menu. Are you sure you want to change it?" = "当你3D触摸这个游戏菜单时，预览存档。您确定要更改吗?";
+
+/* No comment provided by engineer. */
+"There is no chosen service for syncing." = "没有选择用于同步的服务。";
+
+/* No comment provided by engineer. */
+"There were no errors during last sync." = "上次同步时没有错误。";
+
+/* No comment provided by engineer. */
+"This Device" = "本设备";
+
+/* No comment provided by engineer. */
+"This file is not supported." = "不支持此文件。";
+
+/* No comment provided by engineer. */
+"This save state must first be unlocked before it can be modified." = "在修改之前，必须先解锁这个存档。";
+
+/* No comment provided by engineer. */
+"To search the database, type the name of a game in the search bar." = "要搜索数据库，请在搜索栏中输入游戏名称。";
+
+/* No comment provided by engineer. */
+"Unable to Change Artwork" = "无法更改封面";
+
+/* No comment provided by engineer. */
+"Unable to Change Syncing Service" = "无法更改同步服务";
+
+/* No comment provided by engineer. */
+"Unable to Launch Delta" = "无法启动Delta";
+
+/* No comment provided by engineer. */
+"Unable to Launch Game" = "无法启动游戏";
+
+/* No comment provided by engineer. */
+"Unknown" = "未知";
+
+/* No comment provided by engineer. */
+"Unknown Error" = "位置错误";
+
+/* No comment provided by engineer. */
+"Unlock" = "解锁";
+
+/* No comment provided by engineer. */
+"Up" = "上";
+
+/* No comment provided by engineer. */
+"Updated" = "已更新";
+
+/* No comment provided by engineer. */
+"View Versions" = "查看版本";
+
+/* No comment provided by engineer. */
+"Would you like to resume where you left off, or restart the game?" = "你是想从你离开的地方继续玩，还是重新开始游戏?";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"You can add a new cheat by pressing the + button in the top right." = "你可以通过按右上方的+按钮添加一个新的金手指。";
+
+/* No comment provided by engineer. */
+"You can create a new save state by pressing the + button in the top right." = "您可以通过按右上方的+按钮创建一个新的存档。";
+
+/* No comment provided by engineer. */
+"You can create a new save state by pressing the Save State option in the pause menu." = "您可以通过按下暂停菜单中的存档选项来创建一个新的存档。";
+
+/* No comment provided by engineer. */
+"You can customize the shortcuts that appear when long-pressing the app icon once you've added some games." = "添加了一些游戏后，你可以自定义长按应用图标时出现的快捷方式。";
+
+/* No comment provided by engineer. */
+"You can import games by pressing the + button in the top right." = "您可以通过点击右上角的+按钮导入游戏。";
+
+/* No comment provided by engineer. */
+"You have no recently played games." = "你最近没玩过游戏。";
+
+/* No comment provided by engineer. */
+"You may have up to 4 shortcuts." = "你最多可以有4个快捷方式。";
+
+/* No comment provided by engineer. */
+"Your most recently played games will appear as shortcuts when long-pressing the app icon." = "当长按应用程序图标时，你最近玩的游戏将显示为快捷方式。";
+

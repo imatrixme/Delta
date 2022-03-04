@@ -1,0 +1,387 @@
+/* Class = "UILabel"; text = "Updated"; ObjectID = "0Rm-b2-HX5"; */
+"0Rm-b2-HX5.text" = "已更新";
+
+/* Class = "UITableViewSection"; footerTitle = "Manage settings for individual emulation cores."; ObjectID = "1eN-id-M8c"; */
+"1eN-id-M8c.footerTitle" = "管理单个模拟器核心的设置。";
+
+/* Class = "UITableViewSection"; headerTitle = "Core Settings"; ObjectID = "1eN-id-M8c"; */
+"1eN-id-M8c.headerTitle" = "核心设置";
+
+/* Class = "UILabel"; text = "Sync Status"; ObjectID = "1u0-gh-zP7"; */
+"1u0-gh-zP7.text" = "同步状态";
+
+/* Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "1Wk-cG-HDE"; */
+"1Wk-cG-HDE.headerTitle" = "账号";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "2bc-8r-epB"; */
+"2bc-8r-epB.text" = "必需";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "2fS-9A-FKk"; */
+"2fS-9A-FKk.text" = "副标题";
+
+/* Class = "UINavigationItem"; title = "Game Boy Advance"; ObjectID = "2GJ-l7-DgY"; */
+"2GJ-l7-DgY.title" = "Game Boy Advance";
+
+/* Class = "UILabel"; text = "Licenses"; ObjectID = "2K3-IL-94S"; */
+"2K3-IL-94S.text" = "授权";
+
+/* Class = "UILabel"; text = "SteelSeries Stratus"; ObjectID = "2OP-A1-VYo"; */
+"2OP-A1-VYo.text" = "钢铁系列状态";
+
+/* Class = "UILabel"; text = "Google Drive"; ObjectID = "4fb-TC-FrG"; */
+"4fb-TC-FrG.text" = "Google云盘";
+
+/* Class = "UIBarButtonItem"; title = "Reset"; ObjectID = "4jy-hy-YS3"; */
+"4jy-hy-YS3.title" = "重置";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "4TQ-cm-2sN"; */
+"4TQ-cm-2sN.text" = "登出";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "4U1-fe-PIb"; */
+"4U1-fe-PIb.text" = "服务";
+
+/* Class = "UILabel"; text = "Donate"; ObjectID = "6JV-NA-R4y"; */
+"6JV-NA-R4y.text" = "捐赠";
+
+/* Class = "UILabel"; text = "dsibios9.bin"; ObjectID = "6OX-32-izR"; */
+"6OX-32-izR.text" = "dsibios9.bin";
+
+/* Class = "UINavigationItem"; title = "Nintendo DS"; ObjectID = "7dF-4c-IZh"; */
+"7dF-4c-IZh.title" = "Nintendo DS";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "8JD-uT-eoA"; */
+"8JD-uT-eoA.text" = "必需";
+
+/* Class = "UILabel"; text = "View Versions"; ObjectID = "8zd-va-DMf"; */
+"8zd-va-DMf.text" = "查看版本";
+
+/* Class = "UILabel"; text = "Graphic Designer"; ObjectID = "09x-GX-cpy"; */
+"09x-GX-cpy.text" = "平面设计师";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "aeh-me-gZl"; */
+"aeh-me-gZl.text" = "状态";
+
+/* Class = "UITableViewSection"; footerTitle = "When enabled, your device will vibrate in response to touch screen controls."; ObjectID = "aJ4-xT-aZL"; */
+"aJ4-xT-aZL.footerTitle" = "当启用时，您的设备将响应触摸屏控制振动。";
+
+/* Class = "UITableViewSection"; headerTitle = "Haptic Feedback"; ObjectID = "aJ4-xT-aZL"; */
+"aJ4-xT-aZL.headerTitle" = "振动反馈";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "AWh-ik-Gvu"; */
+"AWh-ik-Gvu.text" = "标题";
+
+/* Class = "UILabel"; text = "Riley Testut"; ObjectID = "AYq-XK-j5L"; */
+"AYq-XK-j5L.text" = "Riley Testut";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "b8s-cx-IgW"; */
+"b8s-cx-IgW.text" = "必需";
+
+/* Class = "UILabel"; text = "October 7, 1995"; ObjectID = "b43-lW-Enx"; */
+"b43-lW-Enx.text" = "1995年10月7日";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud"; ObjectID = "Bct-0y-ptf"; */
+"Bct-0y-ptf.headerTitle" = "云端";
+
+/* Class = "UILabel"; text = "bios7.bin"; ObjectID = "Bfp-iA-wWE"; */
+"Bfp-iA-wWE.text" = "bios7.bin";
+
+/* Class = "UILabel"; text = "Home Screen Shortcuts"; ObjectID = "c5i-qG-ir9"; */
+"c5i-qG-ir9.text" = "主屏幕快捷方式";
+
+/* Class = "UITableViewSection"; headerTitle = "Controllers"; ObjectID = "c6K-sJ-0vW"; */
+"c6K-sJ-0vW.headerTitle" = "控制器";
+
+/* Class = "UILabel"; text = "Player 3"; ObjectID = "Cdn-11-xZe"; */
+"Cdn-11-xZe.text" = "玩家 3";
+
+/* Class = "UILabel"; text = "melonDS"; ObjectID = "CFd-fn-r0t"; */
+"CFd-fn-r0t.text" = "melonDS";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "CW8-h0-YST"; */
+"CW8-h0-YST.text" = "必需";
+
+/* Class = "UILabel"; text = "dsifirmware.bin"; ObjectID = "Czu-qN-Luq"; */
+"Czu-qN-Luq.text" = "dsifirmware.bin";
+
+/* Class = "UILabel"; text = "October 7, 1995"; ObjectID = "D5a-Na-NTh"; */
+"D5a-Na-NTh.text" = "1995年10月7日";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "Dxs-Me-IVU"; */
+"Dxs-Me-IVU.text" = "系统名称";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "DYU-tO-Lmw"; */
+"DYU-tO-Lmw.title" = "设置";
+
+/* Class = "UILabel"; text = "Player 2"; ObjectID = "e3u-x9-IEC"; */
+"e3u-x9-IEC.text" = "玩家 2";
+
+/* Class = "UILabel"; text = "Icon Guy"; ObjectID = "e45-FD-ug2"; */
+"e45-FD-ug2.text" = "图标组";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "EFZ-Om-S4W"; */
+"EFZ-Om-S4W.text" = "日期";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "eHi-aO-uGS"; */
+"eHi-aO-uGS.title" = "设置";
+
+/* Class = "UILabel"; text = "Arisotura"; ObjectID = "ERw-hy-cF5"; */
+"ERw-hy-cF5.text" = "Arisotura";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "Etp-g5-W9R"; */
+"Etp-g5-W9R.text" = "系统名称";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "eVw-7r-BEf"; */
+"eVw-7r-BEf.text" = "必需";
+
+/* Class = "UILabel"; text = "Join the beta"; ObjectID = "faT-qa-JP0"; */
+"faT-qa-JP0.text" = "加入Beta计划";
+
+/* Class = "UITableViewSection"; footerTitle = "Preview games and save states when using context menus."; ObjectID = "fdp-8c-oOc"; */
+"fdp-8c-oOc.footerTitle" = "使用上下文菜单预览游戏和保存状态。";
+
+/* Class = "UITableViewSection"; headerTitle = "Haptic Touch"; ObjectID = "fdp-8c-oOc"; */
+"fdp-8c-oOc.headerTitle" = "触摸振动";
+
+/* Class = "UILabel"; text = "bios9.bin"; ObjectID = "fgD-y0-55T"; */
+"fgD-y0-55T.text" = "bios9.bin";
+
+/* Class = "UITableViewSection"; headerTitle = "Credits"; ObjectID = "foh-L9-g6W"; */
+"foh-L9-g6W.headerTitle" = "Credits";
+
+/* Class = "UINavigationItem"; title = "Controller Skins"; ObjectID = "Ful-dk-I0G"; */
+"Ful-dk-I0G.title" = "控制器皮肤";
+
+/* Class = "UINavigationItem"; title = "Versions"; ObjectID = "GLC-Lc-6VM"; */
+"GLC-Lc-6VM.title" = "版本";
+
+/* Class = "UILabel"; text = "Caroline Moore"; ObjectID = "gWx-Xn-5Nf"; */
+"gWx-Xn-5Nf.text" = "Caroline Moore";
+
+/* Class = "UILabel"; text = "Developer"; ObjectID = "h6M-Uh-TBA"; */
+"h6M-Uh-TBA.text" = "开发者";
+
+/* Class = "UITableViewSection"; footerTitle = "Changing cores may improve performance at the cost of additional features."; ObjectID = "hbM-mL-bIr"; */
+"hbM-mL-bIr.footerTitle" = "更改核心可能会以牺牲附加特性为代价来提高性能。";
+
+/* Class = "UILabel"; text = "Player 4"; ObjectID = "Hls-3b-EaS"; */
+"Hls-3b-EaS.text" = "玩家 4";
+
+/* Class = "UILabel"; text = "Jayce's iPhone"; ObjectID = "hNf-uc-PLR"; */
+"hNf-uc-PLR.text" = "Jayce's iPhone";
+
+/* Class = "UIBarButtonItem"; title = "Restore"; ObjectID = "I8z-cN-A01"; */
+"I8z-cN-A01.title" = "恢复";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Itj-QW-4dw"; */
+"Itj-QW-4dw.text" = "标题";
+
+/* Class = "UITableViewSection"; headerTitle = "Portrait"; ObjectID = "jGW-i7-nK1"; */
+"jGW-i7-nK1.headerTitle" = "肖像";
+
+/* Class = "UILabel"; text = "Change Core"; ObjectID = "Jmx-Jw-278"; */
+"Jmx-Jw-278.text" = "切换核心";
+
+/* Class = "UILabel"; text = "Genesis Skin"; ObjectID = "jRO-48-iRO"; */
+"jRO-48-iRO.text" = "Genesis Skin";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "jzK-yT-69q"; */
+"jzK-yT-69q.text" = "日期";
+
+/* Class = "UILabel"; text = "GitHub"; ObjectID = "kHA-YX-Ah9"; */
+"kHA-YX-Ah9.text" = "GitHub";
+
+/* Class = "UILabel"; text = "Google Drive"; ObjectID = "kLY-5g-v8n"; */
+"kLY-5g-v8n.text" = "Google云盘";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "kYg-4f-oTo"; */
+"kYg-4f-oTo.text" = "名称";
+
+/* Class = "UITextView"; text = "Delta and AltStore LLC are in no way affiliated with Nintendo Co., Ltd.\n\nStephen Celis (SQLite.swift)\nCopyright (c) 2014-2015 Stephen Celis (<stephen@stephencelis.com>)\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nOlivier Poitrey (SDWebImage)\nCopyright (c) 2009-2018 Olivier Poitrey rs@dailymotion.com\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished\nto do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n\nThomas Zoechling (ZIPFoundation)\nCopyright (c) 2017 Thomas Zoechling\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nDropbox Inc. (SwiftyDropbox)\nCopyright (c) 2015 Dropbox Inc., http://www.dropbox.com/\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nGoogle (Google API Objective-C Client)\nLicensed under Apache 2 license.\n\nNick Farina (SMCalloutView)\nLicensed under Apache 2 license.\n\nDelta uses these emulator cores licensed under the GNU Public License version 3:\n\nNestopia\nmupen64plus\nGambatte\nvisualboyadvance-m\nDeSmuME\nmelonDS\n\nDelta uses these emulator cores licensed under their respective licenses:\n\nSnes9x\nGenesis Plus GX\n\nDelta uses OpenVGDB to provide automatic artwork for imported games."; ObjectID = "Lw6-5a-pvQ"; */
+"Lw6-5a-pvQ.text" = "Delta and AltStore LLC are in no way affiliated with Nintendo Co., Ltd.\n\nStephen Celis (SQLite.swift)\nCopyright (c) 2014-2015 Stephen Celis (<stephen@stephencelis.com>)\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nOlivier Poitrey (SDWebImage)\nCopyright (c) 2009-2018 Olivier Poitrey rs@dailymotion.com\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished\nto do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n\nThomas Zoechling (ZIPFoundation)\nCopyright (c) 2017 Thomas Zoechling\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\nDropbox Inc. (SwiftyDropbox)\nCopyright (c) 2015 Dropbox Inc., http://www.dropbox.com/\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nGoogle (Google API Objective-C Client)\nLicensed under Apache 2 license.\n\nNick Farina (SMCalloutView)\nLicensed under Apache 2 license.\n\nDelta uses these emulator cores licensed under the GNU Public License version 3:\n\nNestopia\nmupen64plus\nGambatte\nvisualboyadvance-m\nDeSmuME\nmelonDS\n\nDelta uses these emulator cores licensed under their respective licenses:\n\nSnes9x\nGenesis Plus GX\n\nDelta uses OpenVGDB to provide automatic artwork for imported games.";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "mBC-YU-BVK"; */
+"mBC-YU-BVK.text" = "系统名称";
+
+/* Class = "UILabel"; text = "riley@rileytestut.com"; ObjectID = "md7-6u-egL"; */
+"md7-6u-egL.text" = "riley@rileytestut.com";
+
+/* Class = "UITableViewSection"; headerTitle = "Service"; ObjectID = "mIB-Au-dYz"; */
+"mIB-Au-dYz.headerTitle" = "服务";
+
+/* Class = "UILabel"; text = "Buttons"; ObjectID = "mue-uO-1xE"; */
+"mue-uO-1xE.text" = "按键";
+
+/* Class = "UITableViewSection"; headerTitle = "Controller Skins"; ObjectID = "Nch-k1-6pR"; */
+"Nch-k1-6pR.headerTitle" = "控制器皮肤";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "npF-wl-PPC"; */
+"npF-wl-PPC.text" = "状态";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "o9x-Kn-6bC"; */
+"o9x-Kn-6bC.text" = "系统名称";
+
+/* Class = "UITableViewSection"; footerTitle = "Delta requires these BIOS files in order to play Nintendo DS games. Tap one to import it from Files."; ObjectID = "ObZ-cl-5sV"; */
+"ObZ-cl-5sV.footerTitle" = "如果要玩NDS的游戏，需导入特定BIOS文件。点击下方任一个从文件导入。";
+
+/* Class = "UITableViewSection"; headerTitle = "DS BIOS Files"; ObjectID = "ObZ-cl-5sV"; */
+"ObZ-cl-5sV.headerTitle" = "DS BIOS 文件";
+
+/* Class = "UILabel"; text = "No Connected Controllers"; ObjectID = "OeA-dF-xlk"; */
+"OeA-dF-xlk.text" = "没有连接控制器";
+
+/* Class = "UITableViewController"; title = "DS Settings"; ObjectID = "OwL-4c-EEA"; */
+"OwL-4c-EEA.title" = "DS 设置";
+
+/* Class = "UITableViewSection"; headerTitle = "Core Info"; ObjectID = "ozc-x3-LhT"; */
+"ozc-x3-LhT.headerTitle" = "核心信息";
+
+/* Class = "UITableViewController"; title = "Controller Skins"; ObjectID = "pG9-hI-tRE"; */
+"pG9-hI-tRE.title" = "控制器皮肤";
+
+/* Class = "UILabel"; text = "Previous Sync"; ObjectID = "Piz-MQ-rK5"; */
+"Piz-MQ-rK5.text" = "上次同步";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "pJb-OR-TGs"; */
+"pJb-OR-TGs.text" = "必需";
+
+/* Class = "UITableViewSection"; headerTitle = "Landscape"; ObjectID = "PqP-JS-vGE"; */
+"PqP-JS-vGE.headerTitle" = "横屏";
+
+/* Class = "UILabel"; text = "Riley Testut"; ObjectID = "Pum-dL-hGn"; */
+"Pum-dL-hGn.text" = "Riley Testut";
+
+/* Class = "UILabel"; text = "Syncing Enabled"; ObjectID = "QBt-p1-jpG"; */
+"QBt-p1-jpG.text" = "同步已启用";
+
+/* Class = "UINavigationItem"; title = "Controllers"; ObjectID = "QK7-oi-2jJ"; */
+"QK7-oi-2jJ.title" = "控制器";
+
+/* Class = "UILabel"; text = "dsibios7.bin"; ObjectID = "QKd-rm-101"; */
+"QKd-rm-101.text" = "dsibios7.bin";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "qR3-zd-gmV"; */
+"qR3-zd-gmV.text" = "Dropbox";
+
+/* Class = "UITableViewSection"; footerTitle = "Receive early access to new features and more by becoming a patron."; ObjectID = "QvT-Yt-oP1"; */
+"QvT-Yt-oP1.footerTitle" = "通过成为赞助人，更早地获得新功能。";
+
+/* Class = "UITableViewSection"; headerTitle = "Patreon"; ObjectID = "QvT-Yt-oP1"; */
+"QvT-Yt-oP1.headerTitle" = "Patreon";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "r04-kp-xeN"; */
+"r04-kp-xeN.text" = "设备";
+
+/* Class = "UITableViewController"; title = "Syncing Service"; ObjectID = "R9m-rV-VgV"; */
+"R9m-rV-VgV.title" = "同步服务";
+
+/* Class = "UILabel"; text = "Context Menu Previews"; ObjectID = "rDR-EH-JuO"; */
+"rDR-EH-JuO.text" = "上下文菜单预览";
+
+/* Class = "UINavigationItem"; title = "Licenses"; ObjectID = "Rmi-Mn-bdo"; */
+"Rmi-Mn-bdo.title" = "授权";
+
+/* Class = "UILabel"; text = "Game"; ObjectID = "RWL-4W-NpH"; */
+"RWL-4W-NpH.text" = "游戏";
+
+/* Class = "UITableViewSection"; footerTitle = "Delta requires these BIOS files in order to play Nintendo DSi games. Tap one to import it from Files."; ObjectID = "SAz-hG-O4G"; */
+"SAz-hG-O4G.footerTitle" = "如果要玩NDS的游戏，需导入特定BIOS文件。点击下方任一个从文件导入。";
+
+/* Class = "UITableViewSection"; headerTitle = "DSi BIOS Files"; ObjectID = "SAz-hG-O4G"; */
+"SAz-hG-O4G.headerTitle" = "DSi BIOS 文件";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "sF6-5e-HL2"; */
+"sF6-5e-HL2.text" = "系统名称";
+
+/* Class = "UILabel"; text = "firmware.bin"; ObjectID = "SIu-zD-qfE"; */
+"SIu-zD-qfE.text" = "firmware.bin";
+
+/* Class = "UILabel"; text = "Delta 0.6.0"; ObjectID = "Str-BY-agW"; */
+"Str-BY-agW.text" = "Delta 0.6.0";
+
+/* Class = "UITableViewSection"; footerTitle = "Determines how translucent the controller appears, if supported by the controller skin."; ObjectID = "SwK-m9-8gt"; */
+"SwK-m9-8gt.footerTitle" = "确定在控制器蒙皮支持的情况下，控制器显示的半透明程度。";
+
+/* Class = "UITableViewSection"; headerTitle = "Controller Opacity"; ObjectID = "SwK-m9-8gt"; */
+"SwK-m9-8gt.headerTitle" = "控制器不透明度";
+
+/* Class = "UILabel"; text = "Updated"; ObjectID = "SYD-cR-5TY"; */
+"SYD-cR-5TY.text" = "已更新";
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "tls-Hv-Rx2"; */
+"tls-Hv-Rx2.text" = "玩家 1";
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "tqn-1q-p53"; */
+"tqn-1q-p53.text" = "玩家 1";
+
+/* Class = "UILabel"; text = "Patreon"; ObjectID = "TXn-bD-NB8"; */
+"TXn-bD-NB8.text" = "Patreon";
+
+/* Class = "UILabel"; text = "Control Sticks"; ObjectID = "UoA-qC-cKc"; */
+"UoA-qC-cKc.text" = "控制摇杆";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "Uvd-Lt-Ckx"; */
+"Uvd-Lt-Ckx.text" = "来源";
+
+/* Class = "UILabel"; text = "Controller Name"; ObjectID = "VBO-V1-Wfu"; */
+"VBO-V1-Wfu.text" = "控制器名称";
+
+/* Class = "UILabel"; text = "Riley's iPhone 7"; ObjectID = "VIa-dS-7SR"; */
+"VIa-dS-7SR.text" = "Riley's iPhone 7";
+
+/* Class = "UILabel"; text = "Riley's iPhone"; ObjectID = "vJP-Ie-a9H"; */
+"vJP-Ie-a9H.text" = "Riley's iPhone";
+
+/* Class = "UITableViewSection"; headerTitle = "On Device"; ObjectID = "vpJ-Pg-nU9"; */
+"vpJ-Pg-nU9.headerTitle" = "在设备上";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "vV9-Fk-zd5"; */
+"vV9-Fk-zd5.text" = "系统名称";
+
+/* Class = "UITableViewController"; title = "Sync Status"; ObjectID = "vVg-ci-JRa"; */
+"vVg-ci-JRa.title" = "同步状态";
+
+/* Class = "UILabel"; text = "dsinand.bin"; ObjectID = "VWi-nu-uMv"; */
+"VWi-nu-uMv.text" = "dsinand.bin";
+
+/* Class = "UILabel"; text = "Chris Rittenhouse"; ObjectID = "w1i-mR-wOF"; */
+"w1i-mR-wOF.text" = "Chris Rittenhouse";
+
+/* Class = "UINavigationItem"; title = "Home Screen Shortcuts"; ObjectID = "wfE-7e-l8g"; */
+"wfE-7e-l8g.title" = "主屏幕快捷方式";
+
+/* Class = "UILabel"; text = "Developer"; ObjectID = "WQ6-m7-zhh"; */
+"WQ6-m7-zhh.text" = "开发者";
+
+/* Class = "UILabel"; text = "MOGA Gamepad"; ObjectID = "wWc-NY-Bsd"; */
+"wWc-NY-Bsd.text" = "MOGA Gamepad";
+
+/* Class = "UIViewController"; title = "Controls"; ObjectID = "x1g-pH-DnF"; */
+"x1g-pH-DnF.title" = "控制";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "Xpe-sd-GRy"; */
+"Xpe-sd-GRy.text" = "必需";
+
+/* Class = "UIBarButtonItem"; title = "Reset"; ObjectID = "XU0-TI-SPi"; */
+"XU0-TI-SPi.title" = "重置";
+
+/* Class = "UILabel"; text = "System Name"; ObjectID = "XVO-TO-ncw"; */
+"XVO-TO-ncw.text" = "系统名称";
+
+/* Class = "UITableViewSection"; footerTitle = "Sync your games, save data, save states, and cheats between devices."; ObjectID = "y6U-7a-bnX"; */
+"y6U-7a-bnX.footerTitle" = "在各个设备间同步你的游戏，保存数据，保存状态，以及金手指。";
+
+/* Class = "UITableViewSection"; headerTitle = "Delta Sync"; ObjectID = "y6U-7a-bnX"; */
+"y6U-7a-bnX.headerTitle" = "Delta 同步";
+
+/* Class = "UILabel"; text = "melonDS"; ObjectID = "yak-dZ-uPc"; */
+"yak-dZ-uPc.text" = "melonDS";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "zaz-yD-CYG"; */
+"zaz-yD-CYG.text" = "50%";
+
+/* Class = "UILabel"; text = "Nintendo DS"; ObjectID = "zeg-kj-CMN"; */
+"zeg-kj-CMN.text" = "Nintendo DS";
+
+/* Class = "UILabel"; text = "Grant Gliner"; ObjectID = "zro-BX-EY9"; */
+"zro-BX-EY9.text" = "Grant Gliner";
+
