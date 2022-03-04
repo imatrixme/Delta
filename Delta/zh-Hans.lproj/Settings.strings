@@ -176,7 +176,7 @@
 "Itj-QW-4dw.text" = "标题";
 
 /* Class = "UITableViewSection"; headerTitle = "Portrait"; ObjectID = "jGW-i7-nK1"; */
-"jGW-i7-nK1.headerTitle" = "肖像";
+"jGW-i7-nK1.headerTitle" = "竖屏";
 
 /* Class = "UILabel"; text = "Change Core"; ObjectID = "Jmx-Jw-278"; */
 "Jmx-Jw-278.text" = "切换核心";
