@@ -117,13 +117,13 @@ extension GamesViewController
                 
                 let toolbarAppearance = navigationController.toolbar.standardAppearance.copy()
                 toolbarAppearance.backgroundEffect = UIBlurEffect(style: .dark)
-                navigationController.toolbar.standardAppearance = toolbarAppearance                
+                navigationController.toolbar.standardAppearance = toolbarAppearance
             }
             else
             {
                 navigationController.navigationBar.barStyle = .blackTranslucent
                 navigationController.toolbar.barStyle = .blackTranslucent
-            }            
+            }
         }
         
         self.prepareSearchController()

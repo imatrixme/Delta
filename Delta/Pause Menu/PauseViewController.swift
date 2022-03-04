@@ -98,7 +98,7 @@ extension PauseViewController
             {
                 let navigationBarAppearance = self.pauseNavigationController.navigationBar.standardAppearance.copy()
                 navigationBarAppearance.backgroundEffect = UIBlurEffect(style: .dark)
-                navigationBarAppearance.backgroundColor = UIColor.black.withAlphaComponent(0.2)
+                navigationBarAppearance.backgroundColor = UIColor.black
                 navigationBarAppearance.shadowColor = UIColor.white.withAlphaComponent(0.2)
                 navigationBarAppearance.titleTextAttributes = [.foregroundColor: UIColor.white]
                 self.pauseNavigationController.navigationBar.standardAppearance = navigationBarAppearance

@@ -94,7 +94,7 @@ extension GameCollectionViewController
         self.collectionView?.delegate = self
         
         let layout = self.collectionViewLayout as! GridCollectionViewLayout
-        layout.itemWidth = 90
+        layout.itemWidth = 100
         layout.minimumInteritemSpacing = 12
         
         if #available(iOS 13, *) {}
@@ -104,6 +104,27 @@ extension GameCollectionViewController
             
             let longPressGestureRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(GameCollectionViewController.handleLongPressGesture(_:)))
             self.collectionView?.addGestureRecognizer(longPressGestureRecognizer)
+        }
+        
+        if let navigationController = self.navigationController
+        {
+            if #available(iOS 13.0, *)
+            {
+                navigationController.overrideUserInterfaceStyle = .dark
+                
+                let navigationBarAppearance = navigationController.navigationBar.standardAppearance.copy()
+                navigationBarAppearance.backgroundEffect = UIBlurEffect(style: .dark)
+                navigationController.navigationBar.standardAppearance = navigationBarAppearance
+                
+                let toolbarAppearance = navigationController.toolbar.standardAppearance.copy()
+                toolbarAppearance.backgroundEffect = UIBlurEffect(style: .dark)
+                navigationController.toolbar.standardAppearance = toolbarAppearance
+            }
+            else
+            {
+                navigationController.navigationBar.barStyle = .blackTranslucent
+                navigationController.toolbar.barStyle = .blackTranslucent
+            }
         }
     }
     
@@ -283,8 +304,19 @@ private extension GameCollectionViewController
         }
         
         cell.imageView.image = #imageLiteral(resourceName: "BoxArt")
-        
-        cell.maximumImageSize = CGSize(width: 90, height: 90)
+        var csize = CGSize(width: 100, height: 100)
+        let ratio = 100 / 115.0;
+        switch System(gameType: game.type) {
+        case .ds, .n64:
+            csize.width = ratio * 128.0
+        case .nes, .genesis:
+            csize.width = ratio * 84.0
+        case .snes:
+            csize.width = ratio * 158
+        default:
+            csize.width = 100
+        }
+        cell.maximumImageSize = csize
         cell.textLabel.text = game.name
         cell.textLabel.textColor = UIColor.gray
         cell.tintColor = cell.textLabel.textColor

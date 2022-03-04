@@ -81,13 +81,15 @@ class GridCollectionViewCell: UICollectionViewCell
         self.vibrancyView.contentView.translatesAutoresizingMaskIntoConstraints = false
         self.contentView.addSubview(self.vibrancyView)
         
-        self.imageView.contentMode = .scaleAspectFit
+        self.imageView.contentMode = .scaleAspectFill
+        self.imageView.layer.cornerRadius = 8.0
+        self.imageView.layer.masksToBounds = true
         #if os(tvOS)
             self.imageView.adjustsImageWhenAncestorFocused = true
         #endif
         self.contentView.addSubview(self.imageView)
         
-        self.textLabel.font = UIFont.boldSystemFont(ofSize: 12)
+        self.textLabel.font = UIFont.boldSystemFont(ofSize: 10)
         self.textLabel.textAlignment = .center
         self.textLabel.numberOfLines = 0
         self.contentView.addSubview(self.textLabel)
