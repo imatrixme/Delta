@@ -33,7 +33,7 @@ class DeltaNavigationController: UINavigationController {
         super.viewWillAppear(animated)
         let rect = navigationBar.frame
         let width = rect.width
-        let height = rect.height + 44 + (UIDevice.isNotchScreen ? 44.0: 0.0)
+        let height = rect.height + (UIDevice.isNotchScreen ? 44.0: 0.0)
         blureffectview.frame = CGRect(origin: .zero,
                                       size: .init(width: width, height: height))
     }
