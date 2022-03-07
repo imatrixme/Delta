@@ -122,7 +122,7 @@
                                 </connections>
                             </containerView>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
                     <connections>
                         <outlet property="gameViewContainerView" destination="oBZ-xU-jeC" id="jMI-iF-JlU"/>
@@ -185,7 +185,7 @@
                 <navigationController storyboardIdentifier="gamesNavigationController" automaticallyAdjustsScrollViewInsets="NO" id="wKV-3d-NIY" sceneMemberID="viewController">
                     <toolbarItems/>
                     <nil key="simulatedBottomBarMetrics"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="wj9-1e-eev">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="black" id="wj9-1e-eev">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="56"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -215,7 +215,7 @@
             <objects>
                 <navigationController storyboardIdentifier="saveStatesNavigationController" automaticallyAdjustsScrollViewInsets="NO" modalPresentationStyle="fullScreen" id="MPk-bF-nkj" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="twH-3X-6DV">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="black" id="twH-3X-6DV">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -273,7 +273,7 @@
         <scene sceneID="OW2-zT-pbF">
             <objects>
                 <navigationController id="V2x-v0-jWm" sceneMemberID="viewController">
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="pjb-4I-yar">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" barStyle="black" id="pjb-4I-yar">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="56"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
