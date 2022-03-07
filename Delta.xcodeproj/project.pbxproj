@@ -33,6 +33,7 @@
 
 /* Begin PBXBuildFile section */
 		1FA4ABA79AB72914FE414A61 /* libPods-Delta.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC866E433B3BA9AE18ABA1EC /* libPods-Delta.a */; };
+		4538339527D629D40049ED65 /* DeltaNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4538339427D629D40049ED65 /* DeltaNavigationController.swift */; };
 		4588A06E27D1E4E200E6A35D /* PausePresentationControllerContentView.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A06C27D1E4E200E6A35D /* PausePresentationControllerContentView.strings */; };
 		4588A07127D1E4E300E6A35D /* Settings.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A06F27D1E4E300E6A35D /* Settings.strings */; };
 		4588A07427D1E4E300E6A35D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4588A07227D1E4E300E6A35D /* InfoPlist.strings */; };
@@ -197,6 +198,7 @@
 
 /* Begin PBXFileReference section */
 		22506DA00971C4300AF90A35 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4538339427D629D40049ED65 /* DeltaNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeltaNavigationController.swift; sourceTree = "<group>"; };
 		4588A06827D1E3B600E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		4588A06927D1E3B600E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		4588A06A27D1E3B700E6A35D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/PauseMenu.strings"; sourceTree = "<group>"; };
@@ -889,6 +891,7 @@
 			children = (
 				BFFC46441D59861000AF2CC6 /* LaunchScreen.storyboard */,
 				BFFC46221D5984A000AF2CC6 /* LaunchViewController.swift */,
+				4538339427D629D40049ED65 /* DeltaNavigationController.swift */,
 			);
 			path = Launch;
 			sourceTree = "<group>";
@@ -1211,6 +1214,7 @@
 				BF4828861F9028F500028B97 /* System.swift in Sources */,
 				BF13A7561D5D29B0000BB055 /* PreviewGameViewController.swift in Sources */,
 				BF6866171DCAC8B900BF2D06 /* ControllerSkin+Configuring.swift in Sources */,
+				4538339527D629D40049ED65 /* DeltaNavigationController.swift in Sources */,
 				BFFBD3D9224A0756002EFC79 /* URL+ExtendedAttributes.swift in Sources */,
 				BF713C0822499ED4004A1A2B /* PreviousHarmony.xcdatamodeld in Sources */,
 				BF59427D1E09BC830051894B /* ControllerSkin.swift in Sources */,
@@ -1481,7 +1485,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 202203071352;
+				CURRENT_PROJECT_VERSION = 202203071918;
 				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				INFOPLIST_FILE = "Delta/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1510,7 +1514,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 202203071352;
+				CURRENT_PROJECT_VERSION = 202203071918;
 				DEVELOPMENT_TEAM = FST9TRGQ7J;
 				INFOPLIST_FILE = "Delta/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
