@@ -304,19 +304,7 @@ private extension GameCollectionViewController
         }
         
         cell.imageView.image = #imageLiteral(resourceName: "BoxArt")
-        var csize = CGSize(width: 100, height: 100)
-        let ratio = 100 / 115.0;
-        switch System(gameType: game.type) {
-        case .ds, .n64:
-            csize.width = ratio * 128.0
-        case .nes, .genesis:
-            csize.width = ratio * 84.0
-        case .snes:
-            csize.width = ratio * 158
-        default:
-            csize.width = 100
-        }
-        cell.maximumImageSize = csize
+        cell.maximumImageSize = cell.imageSize(gameType: game.type)
         cell.textLabel.text = game.name
         cell.textLabel.textColor = UIColor.gray
         cell.tintColor = cell.textLabel.textColor
@@ -1046,7 +1034,7 @@ extension GameCollectionViewController
         
         if let image = cell.imageView.image
         {
-            let artworkFrame = AVMakeRect(aspectRatio: image.size, insideRect: cell.imageView.bounds)
+            let artworkFrame = AVMakeRect(aspectRatio: cell.imageView.frame.size, insideRect: cell.imageView.bounds)
             
             let bezierPath = UIBezierPath(rect: artworkFrame)
             parameters.visiblePath = bezierPath

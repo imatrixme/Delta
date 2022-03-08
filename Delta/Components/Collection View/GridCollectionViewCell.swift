@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import DeltaCore
 
 class GridCollectionViewCell: UICollectionViewCell
 {
@@ -188,5 +189,23 @@ private extension GridCollectionViewCell
         
         self.textLabelVerticalSpacingConstraint.constant = 8
         self.textLabelFocusedVerticalSpacingConstraint?.constant = self.maximumImageSize.height / 10.0
+    }
+}
+
+extension GridCollectionViewCell {
+    func imageSize(gameType: GameType) -> CGSize {
+        var csize = CGSize(width: 100, height: 100)
+        let ratio = 100 / 115.0;
+        switch System(gameType: gameType) {
+        case .ds, .n64:
+            csize.width = ratio * 128.0
+        case .nes, .genesis:
+            csize.width = ratio * 84.0
+        case .snes:
+            csize.width = ratio * 158
+        default:
+            csize.width = 100
+        }
+        return csize
     }
 }
