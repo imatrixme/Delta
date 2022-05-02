@@ -85,6 +85,8 @@ class GridCollectionViewCell: UICollectionViewCell
         self.imageView.contentMode = .scaleAspectFill
         self.imageView.layer.cornerRadius = 8.0
         self.imageView.layer.masksToBounds = true
+        self.imageView.layer.borderColor = UIColor.init(red: 1, green: 1, blue: 1, alpha: 0.15).cgColor
+        self.imageView.layer.borderWidth = 1
         #if os(tvOS)
             self.imageView.adjustsImageWhenAncestorFocused = true
         #endif
@@ -194,18 +196,20 @@ private extension GridCollectionViewCell
 
 extension GridCollectionViewCell {
     func imageSize(gameType: GameType) -> CGSize {
-        var csize = CGSize(width: 100, height: 100)
-        let ratio = 100 / 115.0;
+        var csize = CGSize(width: 233, height: 233)
+        let ratio = 100 / 233.0
         switch System(gameType: gameType) {
         case .ds, .n64:
-            csize.width = ratio * 128.0
+            csize = CGSize(width: 233, height: 208)
         case .nes, .genesis:
-            csize.width = ratio * 84.0
+            csize = CGSize(width: 233, height: 317)
         case .snes:
-            csize.width = ratio * 158
+            csize = CGSize(width: 233, height: 166)
         default:
-            csize.width = 100
+            csize = CGSize(width: 233, height: 233)
         }
+        csize.width *= ratio
+        csize.height *= ratio
         return csize
     }
 }

@@ -10,6 +10,7 @@ target 'Delta' do
     pod 'Fabric', '~> 1.6.0'
     pod 'Crashlytics', '~> 3.8.0'
     pod 'SMCalloutView', '~> 2.1.0'
+    pod 'GPUImage'
 
     pod 'DeltaCore', :path => 'Cores/DeltaCore'
     pod 'NESDeltaCore', :path => 'Cores/NESDeltaCore'

@@ -8,6 +8,7 @@
 
 import UIKit
 import Roxas
+import GPUImage
 
 import Harmony
 
@@ -54,6 +55,29 @@ class LaunchViewController: RSTLaunchViewController
         guard segue.identifier == "embedGameViewController" else { return }
         
         self.gameViewController = segue.destination as? GameViewController
+//        let filter = FSHFilter.create(vsh: "zfast_lcd", fsh: "zfast_lcd_hd+psp_color_mobile")
+        
+//        let sharpen = CIFilter(name: "CIUnsharpMask")!
+//        sharpen.setValue(0.2, forKey: "inputIntensity")
+//        sharpen.setValue(1, forKey: "inputRadius")
+        
+//        let filter = CIFilter.init(name: "CILineScreen")!
+//        filter.setValue(0.2, forKey: kCIInputAngleKey)
+//        filter.setValue(CIVector(x: 0, y: 0), forKey: kCIInputCenterKey)
+//        filter.setValue(0.5, forKey: kCIInputSharpnessKey)
+//        filter.setValue(0.5, forKey: kCIInputWidthKey)
+        
+//        let shader = FSHFilter.create("matrixme+zfast_lcd_hd+psp_color")
+
+        let filter = CIFilter.init(name: "CICMYKHalftone")!
+        filter.setValue(CIVector(x: 0, y: 0), forKey: kCIInputCenterKey)
+        filter.setValue(0.2, forKey: kCIInputAngleKey)
+        filter.setValue(1, forKey: kCIInputWidthKey)
+        filter.setValue(0.3, forKey: kCIInputSharpnessKey)
+        filter.setValue(0.2, forKey: "inputGCR")
+        filter.setValue(0.5, forKey: "inputUCR")
+
+        self.gameViewController.externalFilters = [filter]
     }
 }
 

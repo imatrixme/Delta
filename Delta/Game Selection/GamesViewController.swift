@@ -43,6 +43,7 @@ class GamesViewController: UIViewController
     private var pageViewController: UIPageViewController!
     private var placeholderView: RSTPlaceholderView!
     private var pageControl: UIPageControl!
+    private let pageBlureffectview = UIVisualEffectView(effect: UIBlurEffect(style: .dark))
     
     private let fetchedResultsController: NSFetchedResultsController<NSFetchRequestResult>
     
@@ -99,8 +100,19 @@ extension GamesViewController
         self.pageControl.hidesForSinglePage = false
         self.pageControl.numberOfPages = 3
         self.pageControl.currentPageIndicatorTintColor = UIColor.deltaPurple
-        self.pageControl.pageIndicatorTintColor = UIColor.lightGray
+        self.pageControl.pageIndicatorTintColor = UIColor.deltaDarkGray
         self.navigationController?.toolbar.addSubview(self.pageControl)
+        
+        self.navigationController?.toolbar.insertSubview(self.pageBlureffectview, belowSubview: self.pageControl)
+        self.pageBlureffectview.layer.cornerRadius = 12
+        self.pageBlureffectview.layer.masksToBounds = true
+        self.pageBlureffectview.layer.borderColor = UIColor.init(red: 1, green: 1, blue: 1, alpha: 0.05).cgColor
+        self.pageBlureffectview.layer.borderWidth = 2
+        self.pageBlureffectview.translatesAutoresizingMaskIntoConstraints = false
+        self.pageBlureffectview.topAnchor.constraint(equalTo: self.pageControl.topAnchor).isActive = true
+        self.pageBlureffectview.bottomAnchor.constraint(equalTo: self.pageControl.bottomAnchor).isActive = true
+        self.pageBlureffectview.leftAnchor.constraint(equalTo: self.pageControl.leftAnchor, constant: 16).isActive = true
+        self.pageBlureffectview.rightAnchor.constraint(equalTo: self.pageControl.rightAnchor, constant: -16).isActive = true
         
         self.pageControl.centerXAnchor.constraint(equalTo: (self.navigationController?.toolbar.centerXAnchor)!, constant: 0).isActive = true
         self.pageControl.centerYAnchor.constraint(equalTo: (self.navigationController?.toolbar.centerYAnchor)!, constant: 0).isActive = true
