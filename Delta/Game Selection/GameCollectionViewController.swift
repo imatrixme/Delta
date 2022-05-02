@@ -201,7 +201,7 @@ extension GameCollectionViewController
                     emulatorBridge.systemType = .ds
                 }
                 
-                emulatorBridge.isJITEnabled = UIDevice.current.supportsJIT
+                emulatorBridge.isJITEnabled = ProcessInfo.processInfo.isJITAvailable
             }
             
             if let saveState = self.activeSaveState
@@ -863,7 +863,7 @@ extension GameCollectionViewController: UIViewControllerPreviewingDelegate
                 emulatorBridge.systemType = .ds
             }
 
-            emulatorBridge.isJITEnabled = UIDevice.current.supportsJIT
+            emulatorBridge.isJITEnabled = ProcessInfo.processInfo.isJITAvailable
         }
         
         let actions = self.actions(for: game).previewActions
