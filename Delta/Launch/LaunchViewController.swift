@@ -92,10 +92,9 @@ extension LaunchViewController
             self.didAttemptStartingSyncManager = true
             
             SyncManager.shared.start(service: Settings.syncingService) { (result) in
-                switch result
-                {
-                case .success: completionHandler(nil)
-                case .failure(let error): completionHandler(error)
+                switch result {
+                    case .success: completionHandler(nil)
+                    case .failure(let error): completionHandler(error)
                 }
             }
         }
