@@ -33,6 +33,11 @@
 
 /* Begin PBXBuildFile section */
 		1FA4ABA79AB72914FE414A61 /* libPods-Delta.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC866E433B3BA9AE18ABA1EC /* libPods-Delta.a */; };
+		4531457A282617D20026D1A1 /* PausePresentationControllerContentView.strings in Resources */ = {isa = PBXBuildFile; fileRef = 45314578282617D20026D1A1 /* PausePresentationControllerContentView.strings */; };
+		4531457D282617D20026D1A1 /* Settings.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4531457B282617D20026D1A1 /* Settings.strings */; };
+		45314580282617D20026D1A1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4531457E282617D20026D1A1 /* InfoPlist.strings */; };
+		45314583282617D20026D1A1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 45314581282617D20026D1A1 /* Localizable.strings */; };
+		457A96972826240400F64049 /* DeltaNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457A96962826240400F64049 /* DeltaNavigationController.swift */; };
 		BF00BEA625B758AA00C8607D /* SystemBIOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF00BEA525B758AA00C8607D /* SystemBIOS.swift */; };
 		BF02D5DA1DDEBB3000A5E131 /* openvgdb.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = BF02D5D91DDEBB3000A5E131 /* openvgdb.sqlite */; };
 		BF04E6FF1DB8625C000F35D3 /* ControllerSkinsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF04E6FE1DB8625C000F35D3 /* ControllerSkinsViewController.swift */; };
@@ -196,6 +201,14 @@
 
 /* Begin PBXFileReference section */
 		22506DA00971C4300AF90A35 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		45314575282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/GamesDatabase.strings"; sourceTree = "<group>"; };
+		45314576282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		45314577282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/PauseMenu.strings"; sourceTree = "<group>"; };
+		45314579282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/PausePresentationControllerContentView.strings"; sourceTree = "<group>"; };
+		4531457C282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Settings.strings"; sourceTree = "<group>"; };
+		4531457F282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		45314582282617D20026D1A1 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		457A96962826240400F64049 /* DeltaNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeltaNavigationController.swift; sourceTree = "<group>"; };
 		A19FF50F55441BC2B2248241 /* Pods-Delta.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Delta.release.xcconfig"; path = "Pods/Target Support Files/Pods-Delta/Pods-Delta.release.xcconfig"; sourceTree = "<group>"; };
 		BF00BEA525B758AA00C8607D /* SystemBIOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemBIOS.swift; sourceTree = "<group>"; };
 		BF02D5D91DDEBB3000A5E131 /* openvgdb.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = openvgdb.sqlite; sourceTree = "<group>"; };
@@ -850,6 +863,10 @@
 				BF090CF11B490D8300DCAB45 /* Delta-Bridging-Header.h */,
 				BF27CC861BC9E3C600A20D89 /* Delta.entitlements */,
 				BFFA71DB1AAC406100EE9DD1 /* Info.plist */,
+				45314581282617D20026D1A1 /* Localizable.strings */,
+				4531457E282617D20026D1A1 /* InfoPlist.strings */,
+				4531457B282617D20026D1A1 /* Settings.strings */,
+				45314578282617D20026D1A1 /* PausePresentationControllerContentView.strings */,
 				BFAB9F87219A4B670080EC7D /* GoogleService-Info.plist */,
 			);
 			path = "Supporting Files";
@@ -881,6 +898,7 @@
 			children = (
 				BFFC46441D59861000AF2CC6 /* LaunchScreen.storyboard */,
 				BFFC46221D5984A000AF2CC6 /* LaunchViewController.swift */,
+				457A96962826240400F64049 /* DeltaNavigationController.swift */,
 			);
 			path = Launch;
 			sourceTree = "<group>";
@@ -963,6 +981,7 @@
 				English,
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = BFFA71CE1AAC406100EE9DD1;
 			packageReferences = (
@@ -985,15 +1004,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFFA71E21AAC406100EE9DD1 /* Main.storyboard in Resources */,
+				45314580282617D20026D1A1 /* InfoPlist.strings in Resources */,
 				BF6BF3211EB82362008E83CD /* GamesDatabase.storyboard in Resources */,
 				BFAB9F88219A4B670080EC7D /* GoogleService-Info.plist in Resources */,
 				BF3540001C5DA3C500C1184C /* PausePresentationControllerContentView.xib in Resources */,
 				BF5E7F461B9A652600AE44F8 /* Settings.storyboard in Resources */,
 				BF02D5DA1DDEBB3000A5E131 /* openvgdb.sqlite in Resources */,
+				4531457D282617D20026D1A1 /* Settings.strings in Resources */,
 				BF71CF8A1FE904B1001F1613 /* GameTableViewCell.xib in Resources */,
 				BFFC46461D59861000AF2CC6 /* LaunchScreen.storyboard in Resources */,
+				45314583282617D20026D1A1 /* Localizable.strings in Resources */,
 				BF1F45AB21AF4B5800EF9895 /* SyncResultsViewController.storyboard in Resources */,
 				BF353FF61C5D837600C1184C /* PauseMenu.storyboard in Resources */,
+				4531457A282617D20026D1A1 /* PausePresentationControllerContentView.strings in Resources */,
 				BF27CC8E1BC9FEA200A20D89 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1205,6 +1228,7 @@
 				BF6866171DCAC8B900BF2D06 /* ControllerSkin+Configuring.swift in Sources */,
 				BFFBD3D9224A0756002EFC79 /* URL+ExtendedAttributes.swift in Sources */,
 				BF713C0822499ED4004A1A2B /* PreviousHarmony.xcdatamodeld in Sources */,
+				457A96972826240400F64049 /* DeltaNavigationController.swift in Sources */,
 				BF59427D1E09BC830051894B /* ControllerSkin.swift in Sources */,
 				BFAB9F7D219A43380080EC7D /* SyncManager.swift in Sources */,
 				BFCEA67E1D56FF640061A534 /* UIViewControllerContextTransitioning+Conveniences.swift in Sources */,
@@ -1240,10 +1264,45 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		45314578282617D20026D1A1 /* PausePresentationControllerContentView.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				45314579282617D20026D1A1 /* zh-Hans */,
+			);
+			name = PausePresentationControllerContentView.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4531457B282617D20026D1A1 /* Settings.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4531457C282617D20026D1A1 /* zh-Hans */,
+			);
+			name = Settings.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4531457E282617D20026D1A1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4531457F282617D20026D1A1 /* zh-Hans */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		45314581282617D20026D1A1 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				45314582282617D20026D1A1 /* zh-Hans */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		BF353FF41C5D837600C1184C /* PauseMenu.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				BF353FF51C5D837600C1184C /* Base */,
+				45314577282617D20026D1A1 /* zh-Hans */,
 			);
 			name = PauseMenu.storyboard;
 			path = Delta;
@@ -1253,6 +1312,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BF6BF3201EB82362008E83CD /* Base */,
+				45314575282617D20026D1A1 /* zh-Hans */,
 			);
 			name = GamesDatabase.storyboard;
 			path = Delta;
@@ -1262,6 +1322,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BFFA71E11AAC406100EE9DD1 /* Base */,
+				45314576282617D20026D1A1 /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			path = Delta;

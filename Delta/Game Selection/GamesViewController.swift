@@ -44,6 +44,7 @@ class GamesViewController: UIViewController
     private var placeholderView: RSTPlaceholderView!
     private var pageControl: UIPageControl!
     private let pageBlureffectview = UIVisualEffectView(effect: UIBlurEffect(style: .dark))
+    private let naviBlureffectview = UIVisualEffectView(effect: UIBlurEffect(style: .dark))
     
     private let fetchedResultsController: NSFetchedResultsController<NSFetchRequestResult>
     
