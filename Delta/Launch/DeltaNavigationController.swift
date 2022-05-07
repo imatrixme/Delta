@@ -28,7 +28,6 @@ class DeltaNavigationController: UINavigationController {
             view.insertSubview(blureffectview, belowSubview: self.navigationBar)
             
             let rect = navigationBar.frame
-//            let width = rect.width
             let height = rect.height + 48 + (UIDevice.isNotchScreen ? 44.0: 0.0) + 8
             blureffectview.translatesAutoresizingMaskIntoConstraints = false
             blureffectview.bottomAnchor.constraint(equalTo: navigationBar.bottomAnchor).isActive = true
@@ -40,11 +39,6 @@ class DeltaNavigationController: UINavigationController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-//        let rect = navigationBar.frame
-//        let width = rect.width
-//        let height = rect.height + 48 + (UIDevice.isNotchScreen ? 44.0: 0.0)
-//        blureffectview.frame = CGRect(origin: .zero,
-//                                      size: .init(width: width, height: height))
     }
     
     override func viewDidAppear(_ animated: Bool) {
