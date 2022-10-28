@@ -73,7 +73,8 @@ extension ControllerSkin: ControllerSkinProtocol
     
     public func inputs(for traits: DeltaCore.ControllerSkin.Traits, at point: CGPoint) -> [Input]?
     {
-        return self.controllerSkin?.inputs(for: traits, at: point)
+//        return self.controllerSkin?.inputs(for: traits, at: point)
+        return nil
     }
     
     public func items(for traits: DeltaCore.ControllerSkin.Traits) -> [DeltaCore.ControllerSkin.Item]?

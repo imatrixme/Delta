@@ -663,7 +663,7 @@ private extension GameViewController
         else if let controllerSkin = DeltaCore.ControllerSkin.standardControllerSkin(for: game.type), controllerSkin.hasTouchScreen(for: traits)
         {
             var touchControllerSkin = TouchControllerSkin(controllerSkin: controllerSkin)
-            touchControllerSkin.layoutGuide = self.view.safeAreaLayoutGuide
+//            touchControllerSkin.layoutGuide = self.view.safeAreaLayoutGuide
             
             switch traits.orientation
             {
